@@ -12,7 +12,8 @@
   - touch .gitigore
   build the one script for git that runs for git, it will igore the file that does need to be committed.
   
-  e.g., it will ignore the files with postfix .lst and .s 
+  e.g., it will ignore the files with postfix .lst and .s in  
+    
     Debug/Obj/
    
     **/*.lst
