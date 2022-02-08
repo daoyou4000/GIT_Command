@@ -12,9 +12,11 @@
   - touch .gitigore
   build the one script for git that runs for git, it will igore the file that does need to be committed.
   
-  Debug/Obj/
+  e.g., it will ignore the files with postfix .lst and .s 
+    Debug/Obj/
+   
     **/*.lst
     **/*.s
 
   - git commit --amend 
-  it 
+  it is used to modify the commit messages. 
