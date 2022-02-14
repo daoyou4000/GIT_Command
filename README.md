@@ -28,5 +28,14 @@
 - git commit --amend 
   it is used to modify the commit messages. 
 
-- git reser HEAD.
+- git reset HEAD,
 reset the pointer to the HEAD.
+
+-  git rev-parse --short HEAD
+this the command that to get the short hash.
+
+- git checkout Branch_Bootloader_And_Fwupdate
+
+The **git checkout** is used switch in between different branchs. 
+
+
