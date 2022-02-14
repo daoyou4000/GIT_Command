@@ -32,10 +32,10 @@
 reset the pointer to the HEAD.
 
 -  git rev-parse --short HEAD
-this the command that to get the short hash.
+  this the command that to get the short hash.
 
 - git checkout Branch_Bootloader_And_Fwupdate
 
-The **git checkout** is used switch in between different branchs. 
+  The **git checkout** is used switch in between different branchs. 
 
 
