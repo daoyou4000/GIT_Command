@@ -31,7 +31,7 @@
 
 - git reset HEAD
 
-reset the pointer to the HEAD.
+  reset the pointer to the HEAD.
 
 -  git rev-parse --short HEAD
 
@@ -41,4 +41,16 @@ reset the pointer to the HEAD.
 
   The **git checkout** is used switch in between different branchs. 
 
+### multiple branches in the GIT
+
+- first **git clone** the master branch then **git checkout BRANCHNAME**
+
+- Then do some other operations.
+
+- **alias** 用法， 使用简短指令 
+    
+    e.g., alias gitlog = 'git log --pretty=format:"%h%x09%an%x09%ad%x09%s"'
+    当使用 **gitlog** 指令时会运行后面的一堆指令。
+    
+    
 
