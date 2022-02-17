@@ -55,4 +55,4 @@
 ### Git cover the code in local copy 覆盖当前本地文件    
 - ````git fetch --all````
 - ````git reset --hard origin/master```` 覆盖master分支
-- ````git reset --hard origin/<branch_name>````覆盖branch分支
+- ````git reset --hard origin/<branch_name>```` 覆盖branch分支
