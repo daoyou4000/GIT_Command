@@ -52,5 +52,5 @@
     e.g., alias gitlog = 'git log --pretty=format:"%h%x09%an%x09%ad%x09%s"'
     当使用 **gitlog** 指令时会运行后面的一堆指令。
     
-    
+### Git cover the code in local copy     
 
