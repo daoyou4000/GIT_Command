@@ -52,7 +52,7 @@
     e.g., alias gitlog = 'git log --pretty=format:"%h%x09%an%x09%ad%x09%s"'
     当使用 **gitlog** 指令时会运行后面的一堆指令。
     
-### Git cover the code in local copy     
+### Git cover the code in local copy 覆盖当前本地文件    
 - ````git fetch --all````
-- ````git reset --hard origin/master````
-- ````git reset --hard origin/<branch_name>````
+- ````git reset --hard origin/master```` 覆盖master分支
+- ````git reset --hard origin/<branch_name>````覆盖branch分支
