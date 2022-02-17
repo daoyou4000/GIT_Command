@@ -53,4 +53,6 @@
     当使用 **gitlog** 指令时会运行后面的一堆指令。
     
 ### Git cover the code in local copy     
-
+- ''''git fetch --all''''
+- ''''git reset --hard origin/master''''
+- ''''git reset --hard origin/<branch_name>''''
