@@ -56,3 +56,13 @@
 - ````git fetch --all````
 - ````git reset --hard origin/master```` 覆盖master分支
 - ````git reset --hard origin/<branch_name>```` 覆盖branch分支
+
+### Use the Git to merge the two branches. 
+
+Use GIT to merge multiple branches might be the best way.
+- Step 1, Build one new repository and **git clone xxxxx**
+- Step 2, **git checkout** both branches 
+- Step 3, enter the master branch 
+- Step 4, **git merge** the other branch 
+- Step 5, There would be some conflicts, use the IDE to compile the result and resolve the conflicts.
+
