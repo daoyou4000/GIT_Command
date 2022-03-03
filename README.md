@@ -59,7 +59,7 @@
 
 ### Use the Git to merge the two branches. 
 
-Use GIT to merge multiple branches might be the best way.
+Use GIT to merge multiple branches might be the best way. [reference](https://www.varonis.com/blog/git-branching#:~:text=To%20merge%20branches%20locally%2C%20use,branch%20into%20the%20main%20branch.)
 - Step 1, Build one new repository and **git clone xxxxx**
 - Step 2, **git checkout** both branches 
 - Step 3, enter the master branch 
