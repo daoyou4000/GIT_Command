@@ -66,7 +66,7 @@ Use GIT to merge multiple branches might be the best way. [Link](https://www.var
 - Step 4, **git merge** the other branch 
 - Step 5, There would be some conflicts, use the IDE to compile the result and resolve the conflicts.
 
-###　When there are some diverge problem 
+### git pull -r
 when you start using your local workspace then commit and see the diverge the problem.
 This might be solved by the **git pull -r**
 
