@@ -73,3 +73,5 @@ This might be solved by the **git pull -r**
 this command is used to pull the change from the remote server, and rebase the head. the GIT will do 
 merge automatically.
 
+### git Create new branches
+git checkout -b BRANCHNAME
